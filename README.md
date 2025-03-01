@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**nadyaloseva/nadyaloseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Всем привет 
+Добро пожаловать в мою жизнь и проекты
 
-Here are some ideas to get you started:
+Сейчас я работаю аналитиком данных, но это не мешает постоянно изучать новое применять это на практике
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Ближайшие цели
+
+Развить свои навыки в области DE  и достичь экспертизы
+
+## 🤝🏻 Связь со мной
+
+- Email: Nadya.Loseva.2001@mail.ru
+- Telegram: @nadya_study
+
+**Заключение**
+Спасибо! До новых встреч! 
